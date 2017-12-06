@@ -1,2 +1,8 @@
-# GLB_MBP_Related
-格力博 MBP 相关
+# 格力博，MBP 设置相关
+>GLB Mac Book Pro
+
+* 1.记录 GLB GZ MBP 的设置相关的事情.
+
+
+
+
