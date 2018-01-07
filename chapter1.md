@@ -5,8 +5,10 @@
 
 ###1.修改 httpd.conf 目录.
 ###2.修改 httpd-vhosts.conf 
-###3.命令
+###3.控制的命令
 ```
+sudo apachectl start
+
 sudo apachectl stop
 ```
 
