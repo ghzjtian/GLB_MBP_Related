@@ -11,7 +11,9 @@
 ###[3.成功运行](#successful)
 ###4.配置文件
 
-###5.修改 mamp 的 mysql 的默认端口为 3307.
+###5.Mac 连接 MAMP 的内置 mysql .
+>1.修改 mamp 的 mysql 的默认端口为 3307.
+>2.连接教程: https://stackoverflow.com/questions/43157632/mysql-command-line-with-mamp
 
 ***
 ***
