@@ -44,7 +44,7 @@ sudo apachectl stop
 >1.修改 mamp 的 mysql 的默认端口为 3307.
 >2.连接教程: https://stackoverflow.com/questions/43157632/mysql-command-line-with-mamp
 
-* 1.进入 ```/Applications/MAMP/Library/bin ```
+* 1.Command Line 进入 ```/Applications/MAMP/Library/bin ```
 * 2.连接 mysql : ``` ./mysql -u root -p```
 
 
